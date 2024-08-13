@@ -1,7 +1,5 @@
 package org.example.util;
 
-import java.io.File;
-import java.io.FileNotFoundException;
 import java.util.NoSuchElementException;
 import java.util.Scanner;
 
